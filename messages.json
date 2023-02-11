@@ -1,0 +1,17 @@
+{
+	"messages": [
+		{
+			"type_url": "/cosmwasm.wasm.v1.MsgInstantiateContract",
+			"value": {
+				"sender": "",
+				"admin": "",
+				"codeId": 1,
+				"label": "Label",
+				"msg": {
+					"count": 0
+				},
+				"funds": []
+			}
+		}
+	]
+}
